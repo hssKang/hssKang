@@ -30,8 +30,8 @@
 
 ## 📈 GitHub Stats  
 
-![Heyonseung's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyonseung&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyonseung&layout=compact&theme=radical)  
+![hssKang's GitHub stats](https://github-readme-stats.vercel.app/api?username=hssKang&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hssKang&layout=compact&theme=radical)  
 
 ---
 
@@ -41,4 +41,4 @@
 - 🎯 Goal: Build **scalable systems** that combine research & production  
 
 ---
-⭐️ From [heyonseung](https://github.com/heyonseung)
+⭐️ From [hssKang](https://github.com/hssKang)
