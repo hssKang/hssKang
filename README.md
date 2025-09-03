@@ -33,6 +33,15 @@
 ![hssKang's GitHub stats](https://github-readme-stats.vercel.app/api?username=hssKang&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hssKang&layout=compact&theme=radical)  
 
+### 🔥 Streak Stats  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hssKang&theme=radical)](https://git.io/streak-stats)  
+
+### 🏆 GitHub Trophies  
+[![trophy](https://github-profile-trophy.vercel.app/?username=hssKang&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)  
+
+### 📊 Contribution Graph  
+[![hssKang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hssKang&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+
 ---
 
 ## ✨ Fun Facts  
